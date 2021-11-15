@@ -1,8 +1,1 @@
-Hello MySQL~
-Hello MySQL~
-Hello MySQL~
-Hello MySQL~
-Hello MySQL~
-Hello MySQL~
-Hello MySQL~
-Hello MySQL~
+this is b file!
