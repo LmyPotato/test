@@ -1,4 +1,2 @@
 # test
-Hello Git~
-Hello test~
-I am Potato~
+this is only for test!
