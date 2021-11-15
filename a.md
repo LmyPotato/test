@@ -1,3 +1,1 @@
-Hello c++~
-Hello MySQL~
-Hello Everyone~
+Delete All!
